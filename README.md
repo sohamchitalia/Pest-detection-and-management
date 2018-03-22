@@ -19,13 +19,21 @@ SMS API Integration for Farmers, which ensures ease of use of technology by them
 Technology Used:
 
 Optimizing a pre-trained model using machine learning, based on a weather API, along with the factors listed above.
+
 Running Python scripts in Laravel.
+
 Laravel as a back-end framework.
+
 HTML, CSS, Bootstrap, JS, jQuery, Ajax.
+
 Weather Forecast API (Darkscan).
+
 Email.js
+
 SMS API: Message91
+
 Web Scrapping for Vendor Details of Pesticide.
+
 Datasets:
 
 Vedas : Soil Moisture dataset.
